@@ -4,8 +4,6 @@ Small plugin to show modal dialog boxes.
 ### Usage
 Download files and link to them in the html head section.
 
-Then:
-
 Write some options and content.
 (default values shown below)
 ```
