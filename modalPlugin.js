@@ -11,7 +11,6 @@ class Modal {
 			backgroundColor: options.backgroundColor || 'white',
 			fromTop: options.fromTop || 10
 		}
-		console.log(this.defaults.fromTop)
 	}
 	
 	show() {
